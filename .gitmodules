@@ -1,0 +1,6 @@
+[submodule "python/themes/ananke"]
+	path = python/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "python/themes/syna"]
+	path = python/themes/syna
+	url = https://github.com/okkur/syna.git
